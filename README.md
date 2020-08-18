@@ -1,14 +1,17 @@
-# Creative Theme for Jekyll
+# The Colour Factor
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+We're a team of mental health educators that have noticed a gap in services for the BIPOC+ Community (Black, Indigenous, People of Colour) that we'd like to help address.
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+Our intention is to start with breaking down the stories we tell ourselves and the stories that have been told about us, by creating a safe space of healing.
 
-## To use the Creative Theme template in your project
+Join the team, as we focus on self-love, the relationship with our hearts and learn about belonging to ourselves.
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+Mission:
+Promote racial awareness by creating safe spaces of healing for the BIPOC+ (Black, Indigenous, People of Colour) community through conversation, collaboration and creativity
+
+Values:
+Dignity, Identity, Compassion, Truth & Reconciliation
+
+“Inclusion is not an opportunity, it’s a necessity”
 
