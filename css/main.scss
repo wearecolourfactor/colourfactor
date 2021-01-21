@@ -114,6 +114,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0 auto;
+  margin-bottom: 50px;
   transition: transform .5s ease; }
 
   .staff-name {
@@ -143,12 +144,12 @@ body {
 /* Previous button  */
 #quote-carousel .carousel-control.left 
 {
-  left: -12px;
+  left: -25px;
 }
 /* Next button  */
 #quote-carousel .carousel-control.right 
 {
-  right: -12px !important;
+  right: -25px !important;
 }
 /* Changes the position of the indicators */
 #quote-carousel .carousel-indicators 
@@ -339,22 +340,21 @@ body {
     .well-educators-mobile{
         font-size:20px;
         margin-top: 20px;
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 50px;
+        padding-right: 50px;
 
     }
 }
 
-.desktop-images {
-
-@media (min-width: 1281px) {
-  
-  
-    width: 650px;
-    height: 350px;
-  
-}
-
+.box {
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
 }
 
 
